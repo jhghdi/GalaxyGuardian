@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ES1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{33,0},{15,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{15,14}</string>
+			</dict>
+			<key>ES2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{33,14},{15,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{15,14}</string>
+			</dict>
+			<key>ES3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{43,29},{15,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{15,14}</string>
+			</dict>
+			<key>ES4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,33},{20,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{20,43}</string>
+			</dict>
+			<key>ES5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{33,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{33,33}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EnemyShoot.png</string>
+			<key>realTextureFileName</key>
+			<string>EnemyShoot.png</string>
+			<key>size</key>
+			<string>{58,53}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>58</integer>
+			<key>height</key>
+			<integer>53</integer>
+		</dict>
+	</dict>
+</plist>
